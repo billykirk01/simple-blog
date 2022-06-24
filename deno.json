@@ -1,0 +1,5 @@
+{
+    "tasks": {
+        "watch": "deno run -A --unstable --watch mod.tsx"
+    }
+}
